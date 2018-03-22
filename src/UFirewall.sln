@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UFirewall.Core", "UFirewall.Core\UFirewall.Core.csproj", "{73B59D14-EEDE-45B4-8BB8-710A3F6EDB9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UFirewall.Tests.Console", "UFirewall.Tests.Console\UFirewall.Tests.Console.csproj", "{4DAD7853-0ECE-4259-BBDD-8D2666B860F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UFirewall.Web", "UFirewall.Web\UFirewall.Web.csproj", "{41603604-B045-4799-A94E-26BF3599493B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73B59D14-EEDE-45B4-8BB8-710A3F6EDB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B59D14-EEDE-45B4-8BB8-710A3F6EDB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B59D14-EEDE-45B4-8BB8-710A3F6EDB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B59D14-EEDE-45B4-8BB8-710A3F6EDB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DAD7853-0ECE-4259-BBDD-8D2666B860F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DAD7853-0ECE-4259-BBDD-8D2666B860F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DAD7853-0ECE-4259-BBDD-8D2666B860F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DAD7853-0ECE-4259-BBDD-8D2666B860F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41603604-B045-4799-A94E-26BF3599493B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41603604-B045-4799-A94E-26BF3599493B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41603604-B045-4799-A94E-26BF3599493B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41603604-B045-4799-A94E-26BF3599493B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1AF3803-41E7-401A-A535-B64C246800FD}
+	EndGlobalSection
+EndGlobal

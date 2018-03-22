@@ -1,0 +1,25 @@
+﻿body {
+}
+.td_num {
+
+    height: 40px; width: 80px; text-align: center
+
+}
+
+.top_div {
+padding-top:40px; padding-left:30px; text-align:center
+}
+.title_sp {
+
+color: #545454;font-size: 28px; font-weight: 400;
+
+}
+.f_div {
+
+    width:45%; margin:0 auto; margin-top:50px;
+}
+
+.f_tb {
+    height: 400PX; width: 800px; text-align: center
+
+}

@@ -1,0 +1,76 @@
+﻿.filter-tags-wrapper {
+    padding: 20px 0 0 20px;
+}
+
+    .filter-tags-wrapper .filter-tags {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        font-size: 12px;
+    }
+
+
+.filter-tags li {
+    float: none;
+    float: left;
+    margin-right: 5px;
+    margin: 0 8px 12px 0 !important;
+    display: inline-block;
+}
+
+    .filter-tags li a {
+        padding: 3px 6px;
+        color: #666;
+        border: 1px solid #aaa;
+    }
+
+        .filter-tags li .active, .filter-tags li a:hover {
+            border: 1px solid #3C7AC9;
+            background: #3C7AC9;
+            color: #fff;
+        }
+
+            .filter-tags li .active:hover {
+                border: 1px solid #3C7AC9;
+                background: #3C7AC9;
+                color: #fff;
+            }
+
+    .filter-tags li .tag-close {
+        font-size: 12px;
+        border: 1px solid #3C7AC9;
+        background: #3C7AC9;
+        padding: 3px 8px;
+        color: #fff;
+    }
+
+        .filter-tags li .tag-close:hover {
+            background: #3C7AC9;
+        }
+
+
+         .block-content .tags a span {
+    border-radius: 0;
+    background: none;
+    border: 1px solid #ddd;
+    color: #888;
+    font-weight: normal;
+}
+
+ .block-content .tags .istop span {
+    border-color: #44B4A5;
+    background: #44B4A5;
+    color: #fff;
+}
+
+    .note-contents .block-content .tags .istop span:hover {
+        border-color: #44B4A5;
+        background: #44B4A5;
+        color: #fff;
+    }
+
+
+ .block-content .tags a span:hover {
+    border: 1px solid #aaa;
+    color: #666;
+}

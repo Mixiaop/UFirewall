@@ -1,0 +1,13 @@
+﻿{
+  "IsClient": 1,
+  "ClientUsedLB": 0,
+  "ServerHost": "http://106.75.50.137:8030/",
+  "IpBlacklistPath": "/App_Data/UFirewall/Blacklist/",
+  "IpWhitelistPath": "/App_Data/UFirewall/Whitelist/",
+  "ErrorLogPath": "/App_Data/UFirewall/Error/",
+  "VisitLogPath": "/App_Data/UFirewall/",
+  "Rule": {
+    "PerSecond": 1,
+    "RequestsCount": 10
+  }
+}

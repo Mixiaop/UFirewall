@@ -1,0 +1,807 @@
+2018-03-20 15:15:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+2018-03-20 15:15:24   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+2018-03-20 15:15:25   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+2018-03-20 15:15:25   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+2018-03-20 15:15:25   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+2018-03-20 15:15:25   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+2018-03-20 15:15:25   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+2018-03-20 15:15:25   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+2018-03-20 15:15:26   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+2018-03-20 15:15:44   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:45   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:50   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:50   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:50   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:51   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:52   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:52   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:15:52   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:09   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 47
+
+2018-03-20 15:29:09   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:09   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:09   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:09   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 47
+
+2018-03-20 15:29:09   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:09   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:09   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:09   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:09   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:09   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:09   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:09   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:09   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:09   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:09   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:09   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:09   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:10   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:11   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:29:12   haha
+   在 UFirewall.Web.FirewallTests.Page_Load(Object sender, EventArgs e) 位置 D:\!Github\UFirewall\src\UFirewall.Web\FirewallTests.aspx.cs:行号 19
+
+2018-03-20 15:35:36   Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.IList`1[UFirewall.WebRequest]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Url', line 1, position 7.
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   在 UFirewall.WebFirewallFileStore.GetAll() 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 75
+
+2018-03-20 16:07:28   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:07:30   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:07:30   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:07:30   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:07:30   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:07:31   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:07:31   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:07:31   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:07:31   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:07:31   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:07:32   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:07:32   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:49   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:49   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:50   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:51   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:51   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:51   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:52   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:52   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:52   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:53   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:53   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:53   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:54   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:54   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:54   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:54   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:54   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:55   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:55   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:55   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:55   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:56   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:56   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:56   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:09:56   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:13:43   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:14:57   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:14:58   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:14:59   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:15:01   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:15:01   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:15:01   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:15:02   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:15:02   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 120
+
+2018-03-20 16:17:22   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 110
+
+2018-03-20 16:17:22   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.GetAll() 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 134
+
+2018-03-20 16:17:22   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 110
+
+2018-03-20 16:17:22   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 110
+
+2018-03-20 16:19:26   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\Blacklist\blacklist_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.IpBlacklist() 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 61
+
+2018-03-20 16:19:26   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 113
+
+2018-03-20 16:19:26   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.GetAll() 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 137
+
+2018-03-20 16:20:05   文件“D:\!Github\UFirewall\src\UFirewall.Web\App_Data\UFirewall\visit_20180320.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   在 UFirewall.WebFirewallFileStore.Log(WebRequest req) 位置 D:\!Github\UFirewall\src\UFirewall.Core\WebFirewallFileStore.cs:行号 113
+
