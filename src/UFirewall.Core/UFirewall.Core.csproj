@@ -54,7 +54,7 @@
     <Compile Include="Current.cs" />
     <Compile Include="ClientLogHttpModule.cs" />
     <Compile Include="UFirewallHttpModule.cs" />
-    <Compile Include="WebFirewallClientVerifier.cs" />
+    <Compile Include="WebFirewallClientKiller.cs" />
     <Compile Include="WebRequest.cs" />
     <Compile Include="WebFirewallFileStore.cs" />
     <Compile Include="IWebFirewall.cs" />

@@ -8,7 +8,7 @@ using U.Utilities.Web;
 
 namespace UFirewall
 {
-    public class WebFirewallFileStore : IWebFirewall, IWebRequestLogger
+    public class WebFirewallFileStore : IWebFirewall, IWebFirewallLogger
     {
         public bool Authentication(WebRequest req = null)
         {

@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 
 namespace UFirewall
 {
-    public interface IWebRequestLogger {
+    public interface IWebFirewallLogger {
         void Log(WebRequest req = null);
 
         Task LogAsync(WebRequest req = null);
@@ -11,11 +11,11 @@ namespace UFirewall
         IList<WebRequest> GetAll();
     }
 
-    public interface IWebFirewallVerifier {
+    public interface IWebFirewallKiller {
         bool Authentication(WebRequest req = null);
     }
 
-    public interface IWebFirewall : IWebFirewallVerifier
+    public interface IWebFirewall : IWebFirewallKiller
     {
         bool IpAddToWhitelist(string ip);
 

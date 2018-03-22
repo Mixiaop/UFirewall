@@ -7,6 +7,9 @@ namespace UFirewall
 {
     public class FirewallSettings
     {
+        /// <summary>
+        /// 是否使用远程防火墙（1=remote, 0=local）
+        /// </summary>
         public int IsClient { get; set; }
 
         public int ClientUsedLB { get; set; }

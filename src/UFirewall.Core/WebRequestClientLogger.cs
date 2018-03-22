@@ -6,7 +6,7 @@ using U.Utilities.Net;
 
 namespace UFirewall
 {
-    public class WebRequestClientLogger  : IWebRequestLogger
+    public class WebRequestClientLogger  : IWebFirewallLogger
     {
         public void Log(WebRequest req = null) {
             if (req == null)

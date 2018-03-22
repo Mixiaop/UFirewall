@@ -15,9 +15,9 @@ namespace UFirewall
         {
             HttpApplication application = (HttpApplication)sender;
             HttpContext context = application.Context;
-            if (Current.Settings.IsClient == 1)
+            if (Current.IsClient)
             {
-                if (!Current.ClientVerifier.Authentication())
+                if (!Current.ClientKiller.Authentication())
                 {
                     context.Response.Write("access denied");
                     context.Response.End();

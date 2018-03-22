@@ -5,7 +5,7 @@ using U.Utilities.Net;
 
 namespace UFirewall
 {
-    public class WebFirewallClientVerifier : IWebFirewallVerifier
+    public class WebFirewallClientKiller : IWebFirewallKiller
     {
         public bool Authentication(WebRequest req = null)
         {

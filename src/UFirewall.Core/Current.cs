@@ -8,13 +8,15 @@ namespace UFirewall
         private static IWebFirewall _firewall  = new WebFirewallFileStore();
         public static IWebFirewall Firewall => _firewall;
 
-        private static IWebRequestLogger _request = new WebFirewallFileStore();
-        public static IWebRequestLogger RequestLogger => _request;
+        private static IWebFirewallLogger _logger = new WebFirewallFileStore();
+        public static IWebFirewallLogger RequestLogger => _logger;
 
-        private static IWebFirewallVerifier _verifier = new WebFirewallClientVerifier();
-        public static IWebFirewallVerifier ClientVerifier => _verifier;
+        private static IWebFirewallKiller _clientKiller = new WebFirewallClientKiller();
+        public static IWebFirewallKiller ClientKiller => _clientKiller;
 
         public static FirewallSettings Settings => FirewallSettings.GetSettings();
+
+        public static bool IsClient => Settings.IsClient == 1;
 
         public static void LogError(Exception ex) {
             string path = U.Utilities.Web.WebHelper.MapPath(Path.Combine(Settings.ErrorLogPath, string.Format("error_{0}.txt", DateTime.Now.ToString("yyyyMMdd"))));

@@ -28,8 +28,14 @@ namespace UFirewall
                 !url.ToLower().Contains(".ttf")&&
                 !url.ToLower().Contains(".ico"))
             {
-                IWebRequestLogger logger = new WebRequestClientLogger();
-                logger.LogAsync();
+
+                if (Current.IsClient)
+                {
+                    new WebRequestClientLogger().LogAsync();
+                }
+                else {
+                    new WebFirewallFileStore().LogAsync();
+                }
             }
 
         }
