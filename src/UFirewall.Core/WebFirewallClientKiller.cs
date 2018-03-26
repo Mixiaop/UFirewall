@@ -20,6 +20,9 @@ namespace UFirewall
                 }
 
                 var url = Current.Settings.ServerHost + (Current.Settings.ServerHost.EndsWith("/") ? "" : "/") + "UFirewall/IpBlacklist.ashx";
+                if (Current.Settings.BlacklistSoaUrl.IsNotNullOrEmpty()) {
+                    url = Current.Settings.BlacklistSoaUrl;
+                }
                 Dictionary<string, string> formData = new Dictionary<string, string>();
 
                 var res = WebRequestHelper.HttpPost(url, formData);

@@ -16,6 +16,10 @@ namespace UFirewall
 
         public string ServerHost { get; set; }
 
+        public int IsBlacklistServer { get; set; }
+
+        public string BlacklistSoaUrl { get; set; }
+
         public string IpBlacklistPath { get; set; }
 
         public string IpWhitelistPath { get; set; }

@@ -16,8 +16,11 @@
                     <%}else{ %>
                     <a href="#" class="underline-nav-item selected" aria-selected="false" role="tab" title="Stars">今日实时访问 (<%= list.Count()  %>)</a>
                     <a href="VisitTop.aspx" class="underline-nav-item" aria-selected="false" role="tab" title="Stars">今日访问Top</a>
+                    <% if (UFirewall.Current.Settings.IsBlacklistServer == 1)
+                             { %>
                     <a href="javascript:;" onclick="page.open('SetBlacklist.aspx',800,600)" class="underline-nav-item" aria-selected="false" role="tab" title="Stars">设置黑名单</a>
-                    <%} %>
+                    <%}
+                             } %>
                 </nav>
             </div>
         </div>
