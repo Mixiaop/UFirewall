@@ -14,30 +14,34 @@ namespace UFirewall
 
         private void Context_BeginRequest(object sender, EventArgs e)
         {
-            HttpApplication application = (HttpApplication)sender;
-            HttpContext context = application.Context;
-            var url = WebHelper.GetThisPageUrl(true);
-            if (!url.ToLower().Contains(".css") &&
-                !url.ToLower().Contains(".js") &&
-                !url.ToLower().Contains(".jpg") &&
-                !url.ToLower().Contains(".jpeg") &&
-                !url.ToLower().Contains(".gif") &&
-                !url.ToLower().Contains(".png") &&
-                !url.ToLower().Contains(".ashx")&&
-                !url.ToLower().Contains(".woff")&&
-                !url.ToLower().Contains(".ttf")&&
-                !url.ToLower().Contains(".ico"))
+            try
             {
-
-                if (Current.IsClient)
+                HttpApplication application = (HttpApplication)sender;
+                HttpContext context = application.Context;
+                var url = WebHelper.GetThisPageUrl(true);
+                if (!url.ToLower().Contains(".css") &&
+                    !url.ToLower().Contains(".js") &&
+                    !url.ToLower().Contains(".jpg") &&
+                    !url.ToLower().Contains(".jpeg") &&
+                    !url.ToLower().Contains(".gif") &&
+                    !url.ToLower().Contains(".png") &&
+                    !url.ToLower().Contains(".ashx") &&
+                    !url.ToLower().Contains(".woff") &&
+                    !url.ToLower().Contains(".ttf") &&
+                    !url.ToLower().Contains(".ico"))
                 {
-                    new WebRequestClientLogger().LogAsync();
-                }
-                else {
-                    new WebFirewallFileStore().LogAsync();
+
+                    if (Current.IsClient)
+                    {
+                        new WebRequestClientLogger().LogAsync();
+                    }
+                    else
+                    {
+                        new WebFirewallFileStore().LogAsync();
+                    }
                 }
             }
-
+            catch (Exception ex) { }
         }
 
         private void Context_Error(object sender, EventArgs e)

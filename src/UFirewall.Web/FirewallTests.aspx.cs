@@ -15,15 +15,21 @@ namespace UFirewall.Web
             //Response.Write(JsonConvert.SerializeObject(Current.Settings));
             //Response.Write(JsonConvert.SerializeObject(Current.Request.GetAll()));
 
-            var list = Current.RequestLogger.GetAll().GroupBy(x => x.Ip).OrderByDescending(x => x.Count());
-            foreach (var item in list) {
-                var a = item.Key;
-                var b = item.Count();
-                var d = 1;
-            }
-            var c = 1;
+            TestA a = null;
+            a.Id = 1;
+            //var list = Current.RequestLogger.GetAll().GroupBy(x => x.Ip).OrderByDescending(x => x.Count());
+            //foreach (var item in list) {
+            //    var a = item.Key;
+            //    var b = item.Count();
+            //    var d = 1;
+            //}
+            //var c = 1;
             //Response.Write("hello world");
 
+        }
+
+        public class TestA {
+            public int Id { get; set; }
         }
     }
 }

@@ -15,20 +15,26 @@ namespace UFirewall
         {
             HttpApplication application = (HttpApplication)sender;
             HttpContext context = application.Context;
-            if (Current.IsClient)
+            try
             {
-                if (!Current.ClientKiller.Authentication())
+                if (Current.IsClient)
                 {
-                    context.Response.Write("access denied");
-                    context.Response.End();
+                    if (!Current.ClientKiller.Authentication())
+                    {
+                        context.Response.Write("access denied");
+                        context.Response.End();
+                    }
+                }
+                else
+                {
+                    if (!Current.Firewall.Authentication())
+                    {
+                        context.Response.Write("access denied");
+                        context.Response.End();
+                    }
                 }
             }
-            else {
-                if (!Current.Firewall.Authentication()) {
-                    context.Response.Write("access denied");
-                    context.Response.End();
-                }
-            }
+            catch (Exception ex) { }
         }
 
         private void Context_Error(object sender, EventArgs e)

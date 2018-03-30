@@ -599,6 +599,7 @@
     <Content Include="assets\waterfall\js\vendor\jquery-1.10.2.min.js" />
     <Content Include="assets\waterfall\js\vendor\modernizr-2.6.2.min.js" />
     <Content Include="Config\UFirewall\FirewallSettings.json" />
+    <Content Include="Global.asax" />
     <Content Include="SetBlacklist.aspx" />
     <Content Include="UFirewall\Stat.ashx" />
     <Content Include="UFirewall\IpBlacklist.ashx" />
@@ -677,6 +678,9 @@
     </Compile>
     <Compile Include="FirewallTests.aspx.designer.cs">
       <DependentUpon>FirewallTests.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Head.Master.cs">
       <DependentUpon>Head.Master</DependentUpon>
