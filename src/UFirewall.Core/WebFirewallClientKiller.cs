@@ -25,7 +25,7 @@ namespace UFirewall
                 }
                 Dictionary<string, string> formData = new Dictionary<string, string>();
 
-                var res = WebRequestHelper.HttpPost(url, formData);
+                var res = WebRequestHelper.HttpPost(url, formData, null, null, null, null, null, null, 500);
 
                 var blacklist = JsonConvert.DeserializeObject<List<string>>(res);
                 if (blacklist != null && blacklist.Count > 0 && (blacklist.Contains(req.Ip)))
